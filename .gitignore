@@ -1,0 +1,15 @@
+/build/
+/install/
+/log/
+
+.vscode/
+**/.vscode/
+*.vc.db
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+*.o
+*.so
+*.a
